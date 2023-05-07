@@ -1,0 +1,11 @@
+Mục tiêu: Vận dụng được phương pháp thiết kế để giải quyết bài toán cụ thể.
+Nội dung thực hiện:
+- Đặc điểm bài toán, dạng thuật toán phổ quát (template, framework).
+- 4 bài toán minh họa(thích hợp và không thích hợp) + quiz
+- Tạo assignment trên wecode để thực hành
+Guideline:
+	- Giới thiệu kỹ thuật Greedy
+	- Các đặc điểm của kỹ thuật Greedy
+	- Các bài toán liên quan kỹ thuật Greedy
+	- Ưu và nhược điểm
+	- Bài tập vận dụng kỹ thuật Greedy
